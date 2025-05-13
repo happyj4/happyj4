@@ -4,13 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 asparing full stack dev
 -----------------------
 
-🎓 I'm currently studying Software Engineering at NURE (National University of Radio Electronics). 💻 I'm passionate about web development and actively learning: 🌐 HTML & CSS for building responsive and accessible user interfaces ⚙️ JavaScript for dynamic front-end development 🐍 Python with FastAPI for powerful back-end solutions ⚛️ React for creating modern and interactive web applications I'm always working on improving my skills and building real-world projects!
+🎓 I'm currently studying Software Engineering at NURE (National University of Radio Electronics). 
+
+💻 I'm passionate about web development and actively learning: 
+* 🌐 HTML & CSS for building responsive and accessible user interfaces 
+* ⚙️ JavaScript for dynamic front-end development 
+* 🐍 Python with FastAPI for powerful back-end solutions 
+* ⚛️ React for creating modern and interactive web applications I'm always working on improving my skills and building real-world projects!
 
 * 🌍  I'm based in Ukraine, Kharkiv
 * ✉️  You can contact me on [Telegram](https://t.me/happyJ4)
 * 🧠  I'm learning I'm currently focused on web development, especially working with React on the front-end and FastAPI on the back-end. I'm also improving my skills in HTML, CSS, JavaScript, and Python, and learning how to build full-stack applications with clean and maintainable code.
 * 🤝  I'm open to collaborating on Я готов сотрудничать с проектами по веб-разработке, особенно с такими современными технологиями, как React и FastAPI. Я также заинтересован в участии в проектах с открытым исходным кодом или студенческих инициативах, которые помогают мне расти как разработчику.
-* ⚡  Feel free to contact me on Telegram!
+* ⚡  Feel free to contact me on [Telegram](https://t.me/happyJ4)!
 
 <a href="https://www.github.com/happyj4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/happyj4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
